@@ -1,0 +1,33 @@
+{
+  "name": "WiFiManagerExt",
+  "keywords": "wifi,wi-fi,esp,esp8266,esp32,espressif8266,espressif32,nodemcu,wemos,arduino",
+  "description": "WiFi Configuration manager with web configuration portal and reset button for ESP boards",
+  "authors":
+[
+    {
+        "name": "tvaira",
+        "url": "https://github.com/tvaira"
+    },
+    {
+        "name": "tzapu",
+        "url": "https://github.com/tzapu"
+    },
+    {
+        "name": "tablatronix",
+        "url": "https://github.com/tablatronix",
+        "maintainer": true
+    }
+],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/tvaira/WiFiManagerExt.git"
+  },
+  "frameworks": "arduino",
+  "platforms": 
+  [
+    "espressif8266",
+    "espressif32"
+  ],
+  "version": "1.0"
+}
